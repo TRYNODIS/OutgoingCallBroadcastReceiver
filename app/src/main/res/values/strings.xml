@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OutgoingCallBroadcastReceiver</string>
+    <string name="phoneNo">Phone no</string>
+    <string name="call">Call</string>
+    <string name="dataSaved">Data Saved</string>
+    <string name="tel">tel:</string>
+    <string name="permGranted">Perm granted</string>
+    <string name="permNotGranted">Perm NOT granted</string>
+    <string name="requestPermission">Request permission</string>
+    <string name="itIsNecessary">It is necessary</string>
+    <string name="noRecordsToShow">No records to show!</string>
+    <string name="date">Date</string>
+    <string name="calledPhoneNo">Called phone no</string>
+</resources>
